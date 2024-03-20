@@ -1,0 +1,73 @@
+/* Estilos para el cuerpo de la página */
+body {
+    background-color: rgb(220, 255, 255);
+    font-family: Arial, sans-serif; /* Establece una fuente de texto para todo el documento */
+    margin: 0; /* Elimina los márgenes predeterminados */
+    padding: 0; /* Elimina los rellenos predeterminados */
+}
+
+/* Estilos para el contenedor principal */
+.container {
+    max-width: 800px; /* Establece un ancho máximo para el contenido */
+    margin: 0 auto; /* Centra el contenedor en la página */
+    padding: 20px; /* Añade un espacio alrededor del contenido */
+}
+
+/* Estilos para el título */
+.title {
+    text-align: center;
+    margin-bottom: 20px; /* Añade un margen inferior al título */
+}
+
+/* Estilos para el subtítulo */
+.subtitle {
+    text-align: center;
+    margin-bottom: 20px; /* Añade un margen inferior al subtítulo */
+}
+
+/* Estilos para el título del equipo */
+.team-title {
+    text-align: center;
+    margin-bottom: 10px; /* Añade un margen inferior al título del equipo */
+    font-size: 30px; /* Aumenta el tamaño del texto */
+}
+
+/* Estilos para la lista de integrantes del equipo */
+.team {
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 50px; /* Mueve la lista 50px a la derecha */
+    font-size: 24px; /* Aumenta el tamaño del texto */
+    margin-left: 380px; /* Mueve el título del equipo 20px a la derecha */
+}
+
+/* Estilos para el título de las secciones de ayuda */
+.help-sections-title {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px; /* Añade un margen inferior al título de las secciones de ayuda */
+    font-size: 30px; /* Aumenta el tamaño del texto */
+}
+
+/* Estilos para el título del animal gato*/
+.animal-title-CAT {
+    text-align: center;
+    color: rgb(206, 118, 35); 
+    font-size: 23px; /* Aumenta el tamaño del texto */
+}
+
+
+/* Estilos para el título del animal perro */
+.animal-title-DOG {
+    text-align: center;
+    color: rgb(206, 118, 35);
+    font-size: 23px; /* Aumenta el tamaño del texto */ 
+}
+
+/* Estilos para las imágenes de los animales */
+.animal-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px; /* Añade un margen inferior a las imágenes de los animales */
+}
