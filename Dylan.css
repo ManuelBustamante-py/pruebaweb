@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(220, 255, 255);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.info {
+    margin-left: 20px;
+    font-size: 16px;
+}
